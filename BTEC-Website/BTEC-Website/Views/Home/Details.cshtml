@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Details";
+}
+
+@model User
+
+<h1>User Details</h1>
+
+<div>
+    <h4>Name</h4>
+    <p>@Model.Name</p>
+</div>
+
+<div>
+    <h4>Email</h4>
+    <p>@Model.Email</p>
+</div>
+
+<div>
+    <h4>Address</h4>
+    <p>@Model.Address</p>
+</div>
+
+<p>
+    <a asp-action="Index">Back to List</a>
+</p>

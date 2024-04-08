@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|c:\\users\\user\\desktop\\applied programming and design principles\\btec-website\\btec-website\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\btec-website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B89F983E-E644-412A-B905-B9525CA8CDF5}|BTEC-Website\\BTEC-Website.csproj|solutionrelative:btec-website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTEC-Website\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "BTEC-Website\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T14:39:11.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "BTEC-Website\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "BTEC-Website\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAADwv4UAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:48:53.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BTEC-Website\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BTEC-Website\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:02:25.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "BTEC-Website\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Models\\Course.cs",
+              "RelativeToolTip": "BTEC-Website\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T06:46:38.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTEC-Website\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BTEC-Website\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T15:31:13.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BTEC-Website\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BTEC-Website\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T13:52:06.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BTEC-Website\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BTEC-Website\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T00:51:43.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BTEC-Website\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BTEC-Website\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T00:47:04.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BTEC-Website\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "BTEC-Website\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T00:41:49.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BTEC-Website\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BTEC-Website\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T00:39:04.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "BTEC-Website\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "BTEC-Website\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:09:46.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "BTEC-Website\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "BTEC-Website\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:09:14.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BTEC-Website\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Models\\User.cs",
+              "RelativeToolTip": "BTEC-Website\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:38:16.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BTEC-Website\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BTEC-Website\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:25:18.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Program.cs",
+              "RelativeDocumentMoniker": "BTEC-Website\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Applied Programming and Design Principles\\BTEC-Website\\BTEC-Website\\Program.cs",
+              "RelativeToolTip": "BTEC-Website\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:19:50.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
